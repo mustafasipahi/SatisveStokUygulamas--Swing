@@ -1,4 +1,4 @@
-# SatisveStokUygulamasi-Swing
+# Satis ve Stok Uygulamasi-Swing
 
 ### Projeni Özeti
 
