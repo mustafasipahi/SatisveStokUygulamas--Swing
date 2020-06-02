@@ -1,6 +1,6 @@
 # Satis ve Stok Uygulamasi-Swing
 
-### Projeni Özeti
+### Projenin Özeti
 
 Bu proje JAVA Programlama Dili ile başlangıç seviyesinde yazılmış herhangi ürün listeleri üzerinde kullanılabilecek olan bir satış ve stoklama programıdır..
 MYSQL Veri Tabanına bağlanarak kayıtlı olan kullanıcıları listelemektedir. Kullanıcılar kendi yetki alanlarına göre bazı özelliklere sahiptir.
